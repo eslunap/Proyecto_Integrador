@@ -4,10 +4,10 @@ Modelado supervisado – Breast Cancer Wisconsin (Diagnostic) Dataset - Kaggle
 
 ## 📌 Autores: Grupo 3
 
-Camilo Alberto Dueñas Pupo
-Estefany Luna Perez
-Sergio David Miranda Bautista
-Jonathan Cortés Isaza
+- Camilo Alberto Dueñas Pupo
+- Estefany Luna Perez
+- Sergio David Miranda Bautista
+- Jonathan Cortés Isaza
 
 ## 🏫 Institución:
 Universidad EAN
